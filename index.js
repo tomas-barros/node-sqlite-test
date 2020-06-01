@@ -34,6 +34,6 @@ function GetStudentsPerGrade(grade)
     });
 };
 
-GetStudentsPerGrade(11);
+GetStudentsPerGrade(12);
 
 db.close();
